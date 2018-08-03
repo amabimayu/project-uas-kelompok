@@ -1,0 +1,1 @@
+$con=mysqli_connect("debinajaya.com","debinaja_riaurunning","wpoSIDJfd8_s","debinaja_riaurunning");
